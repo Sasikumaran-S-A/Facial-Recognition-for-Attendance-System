@@ -1,3 +1,5 @@
+# Facial-Recognition-for-Attendance-System
+
 >>> Features in the program:
 01. It ask each time what to do
 02. If any wrong input is given it will ask again, at any time
